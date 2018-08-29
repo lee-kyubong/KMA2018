@@ -32,5 +32,5 @@
 - 산출된 북한의 예상 일사량, 전력량을 검증할 실제 데이터 부재의 한계
 - 상업적 가치 창출의 어려움
 ## 보고서 내용 및 코드
-- R code [[자세히 보기]]()
+- [R code [자세히 보기]](https://github.com/lee-kyubong/KMA2018/tree/master/codes)
 - 보고서 내용 일부
