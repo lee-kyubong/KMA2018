@@ -33,4 +33,4 @@
 - 상업적 가치 창출의 어려움
 ## 보고서 내용 및 코드
 - [R code [자세히 보기]](https://github.com/lee-kyubong/KMA2018/tree/master/codes)
-- 보고서 내용 일부
+- 보고서 내용
